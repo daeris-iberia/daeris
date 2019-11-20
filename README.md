@@ -1,33 +1,30 @@
-[![Build Status](http://runbot.odoo.com/runbot/badge/flat/1/master.svg)](http://runbot.odoo.com/runbot)
-[![Tech Doc](http://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](http://www.odoo.com/documentation/master)
-[![Help](http://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
-[![Nightly Builds](http://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F)](http://nightly.odoo.com/)
+[![Tech Doc](http://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](https://daeris.com/support/help)
+[![Help](http://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://daeris.com/forum/ayuda-1)
 
-Odoo
-----
+daeris
+------
 
-Odoo is a suite of web based open source business apps.
+daeris es el paquete de aplicaciones empresariales definitivo para gestionar tu negocio.
 
-The main Odoo Apps include an <a href="https://www.odoo.com/page/crm">Open Source CRM</a>,
-<a href="https://www.odoo.com/page/website-builder">Website Builder</a>,
-<a href="https://www.odoo.com/page/e-commerce">eCommerce</a>,
-<a href="https://www.odoo.com/page/warehouse">Warehouse Management</a>,
-<a href="https://www.odoo.com/page/project-management">Project Management</a>,
-<a href="https://www.odoo.com/page/accounting">Billing &amp; Accounting</a>,
-<a href="https://www.odoo.com/page/point-of-sale">Point of Sale</a>,
-<a href="https://www.odoo.com/page/employees">Human Resources</a>,
-<a href="https://www.odoo.com/page/lead-automation">Marketing</a>,
-<a href="https://www.odoo.com/page/manufacturing">Manufacturing</a>,
-<a href="https://www.odoo.com/page/purchase">Purchase Management</a>,
-<a href="https://www.odoo.com/#apps">...</a>
+Las principales aplicaciones que se incluyen en daeris son: <a href="https://daeris.com/crm">CRM</a>,
+<a href="https://daeris.com/ventas">Ventas</a>,
+<a href="https://daeris.com/contabilidad">Contabilidad</a>,
+<a href="https://daeris.com/compras">Compras</a>,
+<a href="https://daeris.com/inventario">Inventario</a>,
+<a href="https://daeris.com/recursos-humanos">Recursos Humanos</a>,
+<a href="https://daeris.com/gestion-de-proyectos">Gestión de Proyectos</a>,
+<a href="https://daeris.com/atencion-al-cliente">Atención al Cliente</a>,
+<a href="https://daeris.com/marketing">Marketing</a>,
+<a href="https://daeris.com/fabricacion">Fabricación</a>,
+<a href="https://daeris.com/gestion-de-contenidos">Gestión de Contenidos</a>,
+<a href="https://daeris.com/punto-de-venta">Punto de Venta</a>,
+<a href="https://daeris.com/modulos">...</a>
 
-Odoo Apps can be used as stand-alone applications, but they also integrate seamlessly so you get
-a full-featured <a href="https://www.odoo.com">Open Source ERP</a> when you install several Apps.
+daeris es el sistema de información empresarial de próxima generación que te ayuda a hacer crecer
+tu negocio, con un potente diseño modular que cubre todos los aspectos esenciales de una empresa.
 
 
-Getting started with Odoo
--------------------------
-For a standard installation please follow the <a href="https://www.odoo.com/documentation/master/setup/install.html">Setup instructions</a>
-from the documentation.
-
-Then follow <a href="https://www.odoo.com/documentation/master/tutorials.html">the developer tutorials</a>
+Instalación
+-----------
+Para una instalación estándar, se deben seguir los pasos detallados en la documentación:
+<a href="https://daeris.com/support/help">Instrucciones de instalación</a>
