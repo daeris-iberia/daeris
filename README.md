@@ -1,10 +1,10 @@
 [![Tech Doc](http://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](https://daeris.com/support/help)
 [![Help](http://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://daeris.com/forum/ayuda-1)
 
-daeris
+Daeris - El Sistema de Gestión Empresarial para Pymes
 ------
 
-daeris es el paquete de aplicaciones empresariales definitivo para gestionar tu negocio.
+Daeris es el paquete de aplicaciones empresariales definitivo para gestionar tu negocio.
 
 Las principales aplicaciones que se incluyen en daeris son: <a href="https://daeris.com/crm">CRM</a>,
 <a href="https://daeris.com/ventas">Ventas</a>,
@@ -16,11 +16,13 @@ Las principales aplicaciones que se incluyen en daeris son: <a href="https://dae
 <a href="https://daeris.com/atencion-al-cliente">Atención al Cliente</a>,
 <a href="https://daeris.com/marketing">Marketing</a>,
 <a href="https://daeris.com/fabricacion">Fabricación</a>,
-<a href="https://daeris.com/gestion-de-contenidos">Gestión de Contenidos</a>,
+<a href="https://daeris.com/sitio-web">Sitio Web</a>,
+<a href="https://daeris.com/ecommerce">eCommerce</a>,
+<a href="https://daeris.com/elearning">eLearning</a>,
 <a href="https://daeris.com/punto-de-venta">Punto de Venta</a>,
 <a href="https://daeris.com/modulos">...</a>
 
-daeris es el sistema de información empresarial de próxima generación que te ayuda a hacer crecer
+Daeris es el sistema de información empresarial de próxima generación que te ayuda a hacer crecer
 tu negocio, con un potente diseño modular que cubre todos los aspectos esenciales de una empresa.
 
 
